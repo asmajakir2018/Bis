@@ -1,7 +1,8 @@
 package org.tst.aj;
 
 public class Abul {
-public static void main(String[] args) {
+
+public void welcome() {
 	System.out.println("welcome");
 }
 
