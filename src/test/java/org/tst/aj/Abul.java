@@ -1,10 +1,14 @@
 package org.tst.aj;
 
 public class Abul {
-
-public void welcome() {
+private void welcome() {
 	System.out.println("welcome");
-}
+	System.out.println("hai");
+	System.out.println("jakir");
+	
+	
+	
 
+}
 }
 
